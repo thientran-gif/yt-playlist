@@ -1,0 +1,6 @@
+{
+  "name": "YT Playlist Inspector",
+  "description": "A precise tool to extract video IDs, metadata, and thumbnails from YouTube playlists with a clean, professional interface.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
